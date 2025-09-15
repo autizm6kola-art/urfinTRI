@@ -11,11 +11,12 @@ function App() {
 
   // Загрузка JSON при старте
   useEffect(() => {
-    fetch('/tasks_urfin.json')
-      .then((res) => res.json())
-      .then((data) => setAllTasks(data))
-      .catch(console.error);
-  }, []);
+  fetch(process.env.PUBLIC_URL + '/tasks_urfin.json')
+    .then((res) => res.json())
+    .then((data) => setAllTasks(data))
+    .catch(console.error);
+}, []);
+
 
   // Функция перехода на страницу заданий
   const goToTasksPage = (range) => {
