@@ -187,7 +187,7 @@ function Task({ task, onCorrect, resetSignal }) {
       <p><strong>Задача {task.id}</strong></p>
 
       {task.audio && (
-        <audio controls src={task.audio} style={{ marginBottom: '10px' }} />
+        <audio controls src={process.env.PUBLIC_URL + task.audio} style={{ marginBottom: '10px' }} />
       )}
 
       <p>{task.text}</p>
