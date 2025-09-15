@@ -1,0 +1,44 @@
+.menu-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 60px 20px 20px;
+  position: relative;
+}
+
+.menu-title {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.menu-progress-text {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.range-buttons-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 10px;
+  justify-content: center;
+}
+
+.reset-button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .menu-container {
+    padding: 30px 12px;
+  }
+
+  .menu-title {
+    font-size: 22px;
+  }
+}

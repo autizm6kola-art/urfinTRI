@@ -1,0 +1,3242 @@
+[
+  {
+    "id": 501,
+    "audio": "/audio/u_501.mp3",
+    "text": "Чарли нашёл на острове десять новых сортов растений.",
+    "correctAnswer": false
+  },
+  {
+    "id": 502,
+    "audio": "/audio/u_502.mp3",
+    "text": "Чарли плавал сорок два дня.",
+    "correctAnswer": true
+  },
+  {
+    "id": 503,
+    "audio": "/audio/u_503.mp3",
+    "text": "Джон прискакал с поля.",
+    "correctAnswer": true
+  },
+  {
+    "id": 504,
+    "audio": "/audio/u_504.mp3",
+    "text": "Чарли хотел купить дом.",
+    "correctAnswer": false
+  },
+  {
+    "id": 505,
+    "audio": "/audio/u_505.mp3",
+    "text": "Все пошли ужинать.",
+    "correctAnswer": true
+  },
+  {
+    "id": 506,
+    "audio": "/audio/u_506.mp3",
+    "text": "Элли не спала всю ночь.",
+    "correctAnswer": false
+  },
+  {
+    "id": 507,
+    "audio": "/audio/u_507.mp3",
+    "text": "Элли пережила простуду.",
+    "correctAnswer": false
+  },
+  {
+    "id": 508,
+    "audio": "/audio/u_508.mp3",
+    "text": "Моряк хотел, чтобы Элли сама рассказала свою историю.",
+    "correctAnswer": true
+  },
+  {
+    "id": 509,
+    "audio": "/audio/u_509.mp3",
+    "text": "Ураган закружил домик.",
+    "correctAnswer": true
+  },
+  {
+    "id": 510,
+    "audio": "/audio/u_510.mp3",
+    "text": "Волшебный ураган посылают добрые феи.",
+    "correctAnswer": false
+  },
+  {
+    "id": 511,
+    "audio": "/audio/u_511.mp3",
+    "text": "Гингема хотела истребить людей.",
+    "correctAnswer": true
+  },
+  {
+    "id": 512,
+    "audio": "/audio/u_512.mp3",
+    "text": "Элли нашла трёх верных друзей.",
+    "correctAnswer": true
+  },
+  {
+    "id": 513,
+    "audio": "/audio/u_513.mp3",
+    "text": "Золотые башмачки перенесли Элли домой.",
+    "correctAnswer": false
+  },
+  {
+    "id": 514,
+    "audio": "/audio/u_514.mp3",
+    "text": "Чарли вскричал в восторге.",
+    "correctAnswer": true
+  },
+  {
+    "id": 515,
+    "audio": "/audio/u_515.mp3",
+    "text": "Моряк жалел о деревянных башмачках.",
+    "correctAnswer": false
+  },
+  {
+    "id": 516,
+    "audio": "/audio/u_516.mp3",
+    "text": "Мужчина у жевунов чуть-чуть пониже Элли.",
+    "correctAnswer": false
+  },
+  {
+    "id": 517,
+    "audio": "/audio/u_517.mp3",
+    "text": "Элли скучает по друзьям.",
+    "correctAnswer": true
+  },
+  {
+    "id": 518,
+    "audio": "/audio/u_518.mp3",
+    "text": "Чарли плавал по морям с десятилетнего возраста.",
+    "correctAnswer": true
+  },
+  {
+    "id": 519,
+    "audio": "/audio/u_519.mp3",
+    "text": "Чарли не слыхал о саблезубых леопардах.",
+    "correctAnswer": false
+  },
+  {
+    "id": 520,
+    "audio": "/audio/u_520.mp3",
+    "text": "Чарли не знал, что существуют летучие носороги.",
+    "correctAnswer": false
+  },
+  {
+    "id": 521,
+    "audio": "/audio/u_521.mp3",
+    "text": "У Чарли был нож.",
+    "correctAnswer": true
+  },
+  {
+    "id": 522,
+    "audio": "/audio/u_522.mp3",
+    "text": "Элли казалось, что дядя Чарли волшебник.",
+    "correctAnswer": true
+  },
+  {
+    "id": 523,
+    "audio": "/audio/u_523.mp3",
+    "text": "Чарли мог построить пушку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 524,
+    "audio": "/audio/u_524.mp3",
+    "text": "Чарли поставил танк в огороде.",
+    "correctAnswer": false
+  },
+  {
+    "id": 525,
+    "audio": "/audio/u_525.mp3",
+    "text": "Чудище всех усыпляло.",
+    "correctAnswer": false
+  },
+  {
+    "id": 526,
+    "audio": "/audio/u_526.mp3",
+    "text": "Чарли гулял с Элли по степи.",
+    "correctAnswer": true
+  },
+  {
+    "id": 527,
+    "audio": "/audio/u_527.mp3",
+    "text": "Тотошка сопровождал Элли и Чарли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 528,
+    "audio": "/audio/u_528.mp3",
+    "text": "Элли увидела ворону.",
+    "correctAnswer": true
+  },
+  {
+    "id": 529,
+    "audio": "/audio/u_529.mp3",
+    "text": "Джимми швырял в ворону камни.",
+    "correctAnswer": false
+  },
+  {
+    "id": 530,
+    "audio": "/audio/u_530.mp3",
+    "text": "Тотошка схватил ворону.",
+    "correctAnswer": false
+  },
+  {
+    "id": 531,
+    "audio": "/audio/u_531.mp3",
+    "text": "Джимми подшиб вороне лапу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 532,
+    "audio": "/audio/u_532.mp3",
+    "text": "Элли гладила ворону.",
+    "correctAnswer": true
+  },
+  {
+    "id": 533,
+    "audio": "/audio/u_533.mp3",
+    "text": "Элли вылечит крылышко у вороны.",
+    "correctAnswer": true
+  },
+  {
+    "id": 534,
+    "audio": "/audio/u_534.mp3",
+    "text": "Вокруг ноги вороны был обмотан древесный лист.",
+    "correctAnswer": true
+  },
+  {
+    "id": 535,
+    "audio": "/audio/u_535.mp3",
+    "text": "Моряк и Элли выбросили лист.",
+    "correctAnswer": false
+  },
+  {
+    "id": 536,
+    "audio": "/audio/u_536.mp3",
+    "text": "На рисунке был нарисован корабль.",
+    "correctAnswer": false
+  },
+  {
+    "id": 537,
+    "audio": "/audio/u_537.mp3",
+    "text": "Рисунок пересекли линии.",
+    "correctAnswer": true
+  },
+  {
+    "id": 538,
+    "audio": "/audio/u_538.mp3",
+    "text": "Друзья Элли за решёткой.",
+    "correctAnswer": true
+  },
+  {
+    "id": 539,
+    "audio": "/audio/u_539.mp3",
+    "text": "Ворона прокаркала «нет-нет».",
+    "correctAnswer": false
+  },
+  {
+    "id": 540,
+    "audio": "/audio/u_540.mp3",
+    "text": "Птица разговаривала в Канзасе.",
+    "correctAnswer": false
+  },
+  {
+    "id": 541,
+    "audio": "/audio/u_541.mp3",
+    "text": "Элли просила родителей отпустить её в Волшебную страну.",
+    "correctAnswer": true
+  },
+  {
+    "id": 542,
+    "audio": "/audio/u_542.mp3",
+    "text": "Чарли любил приключения.",
+    "correctAnswer": true
+  },
+  {
+    "id": 543,
+    "audio": "/audio/u_543.mp3",
+    "text": "Моряк хотел увидеть Волшебную страну.",
+    "correctAnswer": true
+  },
+  {
+    "id": 544,
+    "audio": "/audio/u_544.mp3",
+    "text": "Джон и Анна хотели расстаться с дочерью.",
+    "correctAnswer": false
+  },
+  {
+    "id": 545,
+    "audio": "/audio/u_545.mp3",
+    "text": "Сборы потребовали много времени.",
+    "correctAnswer": false
+  },
+  {
+    "id": 546,
+    "audio": "/audio/u_546.mp3",
+    "text": "Элли рассказала Гудвину о послании.",
+    "correctAnswer": true
+  },
+  {
+    "id": 547,
+    "audio": "/audio/u_547.mp3",
+    "text": "Лист послал Страшила.",
+    "correctAnswer": true
+  },
+  {
+    "id": 548,
+    "audio": "/audio/u_548.mp3",
+    "text": "Гудвин не поедет с Элли в Волшебную страну.",
+    "correctAnswer": true
+  },
+  {
+    "id": 549,
+    "audio": "/audio/u_549.mp3",
+    "text": "Элли помотала головой.",
+    "correctAnswer": false
+  },
+  {
+    "id": 550,
+    "audio": "/audio/u_550.mp3",
+    "text": "Элли и Чарли ночевали в лесу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 551,
+    "audio": "/audio/u_551.mp3",
+    "text": "Палатка превращалась в мост.",
+    "correctAnswer": false
+  },
+  {
+    "id": 552,
+    "audio": "/audio/u_552.mp3",
+    "text": "Колодцы стали редкими.",
+    "correctAnswer": true
+  },
+  {
+    "id": 553,
+    "audio": "/audio/u_553.mp3",
+    "text": "Тотошка боялся нападать на ящериц.",
+    "correctAnswer": true
+  },
+  {
+    "id": 554,
+    "audio": "/audio/u_554.mp3",
+    "text": "За лесом начиналось море.",
+    "correctAnswer": false
+  },
+  {
+    "id": 555,
+    "audio": "/audio/u_555.mp3",
+    "text": "Чарли построил корабль.",
+    "correctAnswer": true
+  },
+  {
+    "id": 556,
+    "audio": "/audio/u_556.mp3",
+    "text": "Перед ними раскинулась пустыня.",
+    "correctAnswer": true
+  },
+  {
+    "id": 557,
+    "audio": "/audio/u_557.mp3",
+    "text": "Девочка однажды пересекала пустыню в домике.",
+    "correctAnswer": true
+  },
+  {
+    "id": 558,
+    "audio": "/audio/u_558.mp3",
+    "text": "Чарли боролся с океаном.",
+    "correctAnswer": true
+  },
+  {
+    "id": 559,
+    "audio": "/audio/u_559.mp3",
+    "text": "Чарли и Элли нужна была гроза.",
+    "correctAnswer": false
+  },
+  {
+    "id": 560,
+    "audio": "/audio/u_560.mp3",
+    "text": "Через три дня началась гроза.",
+    "correctAnswer": false
+  },
+  {
+    "id": 561,
+    "audio": "/audio/u_561.mp3",
+    "text": "На матче поднялась крыша.",
+    "correctAnswer": false
+  },
+  {
+    "id": 562,
+    "audio": "/audio/u_562.mp3",
+    "text": "У Чарли было всепревращательное полотнище.",
+    "correctAnswer": true
+  },
+  {
+    "id": 563,
+    "audio": "/audio/u_563.mp3",
+    "text": "Тележка покатилась по песку.",
+    "correctAnswer": true
+  },
+  {
+    "id": 564,
+    "audio": "/audio/u_564.mp3",
+    "text": "Чарли достал из кармана бинокль.",
+    "correctAnswer": false
+  },
+  {
+    "id": 565,
+    "audio": "/audio/u_565.mp3",
+    "text": "В рот врывались мухи.",
+    "correctAnswer": false
+  },
+  {
+    "id": 566,
+    "audio": "/audio/u_566.mp3",
+    "text": "Капитан объезжал холмы и впадины.",
+    "correctAnswer": true
+  },
+  {
+    "id": 567,
+    "audio": "/audio/u_567.mp3",
+    "text": "Чарли видел море.",
+    "correctAnswer": false
+  },
+  {
+    "id": 568,
+    "audio": "/audio/u_568.mp3",
+    "text": "Дождь не стихал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 569,
+    "audio": "/audio/u_569.mp3",
+    "text": "Сухопутный корабль сбивался на юг.",
+    "correctAnswer": false
+  },
+  {
+    "id": 570,
+    "audio": "/audio/u_570.mp3",
+    "text": "Из холма показался камень.",
+    "correctAnswer": true
+  },
+  {
+    "id": 571,
+    "audio": "/audio/u_571.mp3",
+    "text": "Корабль нёсся на препятствие.",
+    "correctAnswer": true
+  },
+  {
+    "id": 572,
+    "audio": "/audio/u_572.mp3",
+    "text": "Чарли упал на спину.",
+    "correctAnswer": true
+  },
+  {
+    "id": 573,
+    "audio": "/audio/u_573.mp3",
+    "text": "Ворона была в клетке.",
+    "correctAnswer": true
+  },
+  {
+    "id": 574,
+    "audio": "/audio/u_574.mp3",
+    "text": "Камень отталкивал судно.",
+    "correctAnswer": false
+  },
+  {
+    "id": 575,
+    "audio": "/audio/u_575.mp3",
+    "text": "Элли надеялась укрыться за камнем от дождя.",
+    "correctAnswer": false
+  },
+  {
+    "id": 576,
+    "audio": "/audio/u_576.mp3",
+    "text": "Элли показалось, что узор складывается в буквы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 577,
+    "audio": "/audio/u_577.mp3",
+    "text": "Моряк отошёл от Элли.",
+    "correctAnswer": false
+  },
+  {
+    "id": 578,
+    "audio": "/audio/u_578.mp3",
+    "text": "Камень был волшебным.",
+    "correctAnswer": true
+  },
+  {
+    "id": 579,
+    "audio": "/audio/u_579.mp3",
+    "text": "Гингема расставила камни далеко один от другого.",
+    "correctAnswer": true
+  },
+  {
+    "id": 580,
+    "audio": "/audio/u_580.mp3",
+    "text": "Чарли раскинул шатёр.",
+    "correctAnswer": false
+  },
+  {
+    "id": 581,
+    "audio": "/audio/u_581.mp3",
+    "text": "Над пустыней зажглись фонари.",
+    "correctAnswer": false
+  },
+  {
+    "id": 582,
+    "audio": "/audio/u_582.mp3",
+    "text": "Моряк задремал на закате.",
+    "correctAnswer": false
+  },
+  {
+    "id": 583,
+    "audio": "/audio/u_583.mp3",
+    "text": "Они оставят корабль.",
+    "correctAnswer": true
+  },
+  {
+    "id": 584,
+    "audio": "/audio/u_584.mp3",
+    "text": "Чарли Блек сложил в рюкзак Тотошку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 585,
+    "audio": "/audio/u_585.mp3",
+    "text": "Невидимая нить тащила пешеходов вперёд.",
+    "correctAnswer": false
+  },
+  {
+    "id": 586,
+    "audio": "/audio/u_586.mp3",
+    "text": "Ноги понесли Чарли и Элли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 587,
+    "audio": "/audio/u_587.mp3",
+    "text": "Камень не отпускал Элли и Чарли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 588,
+    "audio": "/audio/u_588.mp3",
+    "text": "Моряк и девочка возвращались в лагерь.",
+    "correctAnswer": true
+  },
+  {
+    "id": 589,
+    "audio": "/audio/u_589.mp3",
+    "text": "Попугай бился в клетке.",
+    "correctAnswer": false
+  },
+  {
+    "id": 590,
+    "audio": "/audio/u_590.mp3",
+    "text": "Ворона хотела улететь.",
+    "correctAnswer": true
+  },
+  {
+    "id": 591,
+    "audio": "/audio/u_591.mp3",
+    "text": "Ворона села на голову Элли.",
+    "correctAnswer": false
+  },
+  {
+    "id": 592,
+    "audio": "/audio/u_592.mp3",
+    "text": "Камень связал ворону.",
+    "correctAnswer": false
+  },
+  {
+    "id": 593,
+    "audio": "/audio/u_593.mp3",
+    "text": "Припасы и вода прибывали.",
+    "correctAnswer": false
+  },
+  {
+    "id": 594,
+    "audio": "/audio/u_594.mp3",
+    "text": "Элли просила есть.",
+    "correctAnswer": false
+  },
+  {
+    "id": 595,
+    "audio": "/audio/u_595.mp3",
+    "text": "Тотошка вилял хвостиком.",
+    "correctAnswer": false
+  },
+  {
+    "id": 596,
+    "audio": "/audio/u_596.mp3",
+    "text": "Элли впала в забытье.",
+    "correctAnswer": true
+  },
+  {
+    "id": 597,
+    "audio": "/audio/u_597.mp3",
+    "text": "Ворона возвращалась.",
+    "correctAnswer": true
+  },
+  {
+    "id": 598,
+    "audio": "/audio/u_598.mp3",
+    "text": "Попугай вернулся.",
+    "correctAnswer": false
+  },
+  {
+    "id": 599,
+    "audio": "/audio/u_599.mp3",
+    "text": "Ворона тащила в клюве грушу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 600,
+    "audio": "/audio/u_600.mp3",
+    "text": "Чарли вложил ягоды в рот Тотошки.",
+    "correctAnswer": false
+  },
+  {
+    "id": 601,
+    "audio": "/audio/u_601.mp3",
+    "text": "Ворона принесла виноград.",
+    "correctAnswer": true
+  },
+  {
+    "id": 602,
+    "audio": "/audio/u_602.mp3",
+    "text": "Ягоды оживили пёсика.",
+    "correctAnswer": true
+  },
+  {
+    "id": 603,
+    "audio": "/audio/u_603.mp3",
+    "text": "Моряк почесал ворону.",
+    "correctAnswer": false
+  },
+  {
+    "id": 604,
+    "audio": "/audio/u_604.mp3",
+    "text": "У вороны чёрные глаза.",
+    "correctAnswer": true
+  },
+  {
+    "id": 605,
+    "audio": "/audio/u_605.mp3",
+    "text": "Ворона поползла по песку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 606,
+    "audio": "/audio/u_606.mp3",
+    "text": "Они спасены.",
+    "correctAnswer": true
+  },
+  {
+    "id": 607,
+    "audio": "/audio/u_607.mp3",
+    "text": "Элли подбежала к дяде.",
+    "correctAnswer": true
+  },
+  {
+    "id": 608,
+    "audio": "/audio/u_608.mp3",
+    "text": "Тотошка грустно бежал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 609,
+    "audio": "/audio/u_609.mp3",
+    "text": "Путники выбросили ягоды.",
+    "correctAnswer": false
+  },
+  {
+    "id": 610,
+    "audio": "/audio/u_610.mp3",
+    "text": "Ворона принесла новую горсть винограда.",
+    "correctAnswer": true
+  },
+  {
+    "id": 611,
+    "audio": "/audio/u_611.mp3",
+    "text": "По берегам реки росли огурцы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 612,
+    "audio": "/audio/u_612.mp3",
+    "text": "Ворона заговорила человеческим языком.",
+    "correctAnswer": true
+  },
+  {
+    "id": 613,
+    "audio": "/audio/u_613.mp3",
+    "text": "Ворону звали Кагги-Карр.",
+    "correctAnswer": true
+  },
+  {
+    "id": 614,
+    "audio": "/audio/u_614.mp3",
+    "text": "Элли плакала.",
+    "correctAnswer": false
+  },
+  {
+    "id": 615,
+    "audio": "/audio/u_615.mp3",
+    "text": "Они попали в Изумрудную страну.",
+    "correctAnswer": false
+  },
+  {
+    "id": 616,
+    "audio": "/audio/u_616.mp3",
+    "text": "Они явились из страны, где нет волшебства.",
+    "correctAnswer": true
+  },
+  {
+    "id": 617,
+    "audio": "/audio/u_617.mp3",
+    "text": "Ворона отложила повесть до завтра.",
+    "correctAnswer": true
+  },
+  {
+    "id": 618,
+    "audio": "/audio/u_618.mp3",
+    "text": "Железный Дровосек и Страшила были живы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 619,
+    "audio": "/audio/u_619.mp3",
+    "text": "Элли стало весело.",
+    "correctAnswer": false
+  },
+  {
+    "id": 620,
+    "audio": "/audio/u_620.mp3",
+    "text": "Ворона сменила милость на гнев.",
+    "correctAnswer": false
+  },
+  {
+    "id": 621,
+    "audio": "/audio/u_621.mp3",
+    "text": "Им дано на раздумье три месяца.",
+    "correctAnswer": false
+  },
+  {
+    "id": 622,
+    "audio": "/audio/u_622.mp3",
+    "text": "В речке есть рыба.",
+    "correctAnswer": true
+  },
+  {
+    "id": 623,
+    "audio": "/audio/u_623.mp3",
+    "text": "Тотошка любит варёную рыбу.",
+    "correctAnswer": true
+  },
+  {
+    "id": 624,
+    "audio": "/audio/u_624.mp3",
+    "text": "Моряк не смог поймать ни одного жука.",
+    "correctAnswer": true
+  },
+  {
+    "id": 625,
+    "audio": "/audio/u_625.mp3",
+    "text": "Элли собирала ветки для костра.",
+    "correctAnswer": true
+  },
+  {
+    "id": 626,
+    "audio": "/audio/u_626.mp3",
+    "text": "У рыбы была чешуя лазурного цвета.",
+    "correctAnswer": true
+  },
+  {
+    "id": 627,
+    "audio": "/audio/u_627.mp3",
+    "text": "Они сварили рыбу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 628,
+    "audio": "/audio/u_628.mp3",
+    "text": "Путники развалились на ветках.",
+    "correctAnswer": false
+  },
+  {
+    "id": 629,
+    "audio": "/audio/u_629.mp3",
+    "text": "Ворона ужасно радовалась.",
+    "correctAnswer": false
+  },
+  {
+    "id": 630,
+    "audio": "/audio/u_630.mp3",
+    "text": "Элли покраснела.",
+    "correctAnswer": true
+  },
+  {
+    "id": 631,
+    "audio": "/audio/u_631.mp3",
+    "text": "Виллина сильнее Гингемы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 632,
+    "audio": "/audio/u_632.mp3",
+    "text": "Ворона полетела в Жёлтую страну.",
+    "correctAnswer": true
+  },
+  {
+    "id": 633,
+    "audio": "/audio/u_633.mp3",
+    "text": "У Виллины был жёлтый дворец.",
+    "correctAnswer": true
+  },
+  {
+    "id": 634,
+    "audio": "/audio/u_634.mp3",
+    "text": "Виллина вытащила из складок мантии пирожок.",
+    "correctAnswer": false
+  },
+  {
+    "id": 635,
+    "audio": "/audio/u_635.mp3",
+    "text": "Виллина стала перелистывать журнал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 636,
+    "audio": "/audio/u_636.mp3",
+    "text": "Книга исчезла в кустах.",
+    "correctAnswer": false
+  },
+  {
+    "id": 637,
+    "audio": "/audio/u_637.mp3",
+    "text": "На исходе дня друзья вороны погибнут.",
+    "correctAnswer": true
+  },
+  {
+    "id": 638,
+    "audio": "/audio/u_638.mp3",
+    "text": "Она спрятала ворону под мантией.",
+    "correctAnswer": true
+  },
+  {
+    "id": 639,
+    "audio": "/audio/u_639.mp3",
+    "text": "Ворона съела десять ягод.",
+    "correctAnswer": true
+  },
+  {
+    "id": 640,
+    "audio": "/audio/u_640.mp3",
+    "text": "Заклинания волшебницы могут перенести её за границу Волшебной страны.",
+    "correctAnswer": false
+  },
+  {
+    "id": 641,
+    "audio": "/audio/u_641.mp3",
+    "text": "Чарли сделал бы ворону капитаном.",
+    "correctAnswer": false
+  },
+  {
+    "id": 642,
+    "audio": "/audio/u_642.mp3",
+    "text": "Кагги-Карр знала историю Урфина Джюса.",
+    "correctAnswer": false
+  },
+  {
+    "id": 643,
+    "audio": "/audio/u_643.mp3",
+    "text": "Кагги-Карр думала, что Урфин могучий волшебник.",
+    "correctAnswer": true
+  },
+  {
+    "id": 644,
+    "audio": "/audio/u_644.mp3",
+    "text": "Поведение Страишы и Железного человека вызвали слёзы у Элли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 645,
+    "audio": "/audio/u_645.mp3",
+    "text": "Солдат и Фарамонт попали в плен.",
+    "correctAnswer": true
+  },
+  {
+    "id": 646,
+    "audio": "/audio/u_646.mp3",
+    "text": "У Урфина металлическое войско.",
+    "correctAnswer": false
+  },
+  {
+    "id": 647,
+    "audio": "/audio/u_647.mp3",
+    "text": "Элли забыла про глупое правило.",
+    "correctAnswer": false
+  },
+  {
+    "id": 648,
+    "audio": "/audio/u_648.mp3",
+    "text": "Ворона перелетела через лес.",
+    "correctAnswer": false
+  },
+  {
+    "id": 649,
+    "audio": "/audio/u_649.mp3",
+    "text": "В скитаниях вороны прошло несколько недель.",
+    "correctAnswer": true
+  },
+  {
+    "id": 650,
+    "audio": "/audio/u_650.mp3",
+    "text": "Элли снимала Страшилу с кола.",
+    "correctAnswer": true
+  },
+  {
+    "id": 651,
+    "audio": "/audio/u_651.mp3",
+    "text": "Ворона полетела искать дорогу через горы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 652,
+    "audio": "/audio/u_652.mp3",
+    "text": "Виноград превратиться в изюм.",
+    "correctAnswer": true
+  },
+  {
+    "id": 653,
+    "audio": "/audio/u_653.mp3",
+    "text": "Для Тотошки Моряк сделал шапку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 654,
+    "audio": "/audio/u_654.mp3",
+    "text": "Сегодня ворона летела на север.",
+    "correctAnswer": false
+  },
+  {
+    "id": 655,
+    "audio": "/audio/u_655.mp3",
+    "text": "На следующий день ворона исчезла в лесу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 656,
+    "audio": "/audio/u_656.mp3",
+    "text": "Кагги-Карр не вернулась.",
+    "correctAnswer": false
+  },
+  {
+    "id": 657,
+    "audio": "/audio/u_657.mp3",
+    "text": "Ворона нашла тропинку через горы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 658,
+    "audio": "/audio/u_658.mp3",
+    "text": "Кагги-Карр – необыкновенная птица.",
+    "correctAnswer": true
+  },
+  {
+    "id": 659,
+    "audio": "/audio/u_659.mp3",
+    "text": "У Чарли не было специального снаряжения.",
+    "correctAnswer": true
+  },
+  {
+    "id": 660,
+    "audio": "/audio/u_660.mp3",
+    "text": "Элли брала на руки ворону.",
+    "correctAnswer": false
+  },
+  {
+    "id": 661,
+    "audio": "/audio/u_661.mp3",
+    "text": "Сверху щель казалась толстой ниткой.",
+    "correctAnswer": false
+  },
+  {
+    "id": 662,
+    "audio": "/audio/u_662.mp3",
+    "text": "Надо строить башню.",
+    "correctAnswer": false
+  },
+  {
+    "id": 663,
+    "audio": "/audio/u_663.mp3",
+    "text": "Полотенце превратиться в мост.",
+    "correctAnswer": true
+  },
+  {
+    "id": 664,
+    "audio": "/audio/u_664.mp3",
+    "text": "Чарли перекинул бечёвку через щель.",
+    "correctAnswer": true
+  },
+  {
+    "id": 665,
+    "audio": "/audio/u_665.mp3",
+    "text": "Элли запрыгала от ужаса.",
+    "correctAnswer": false
+  },
+  {
+    "id": 666,
+    "audio": "/audio/u_666.mp3",
+    "text": "Они перешли реку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 667,
+    "audio": "/audio/u_667.mp3",
+    "text": "Элли узнала страну жевунов.",
+    "correctAnswer": true
+  },
+  {
+    "id": 668,
+    "audio": "/audio/u_668.mp3",
+    "text": "Чарли посетил много стран.",
+    "correctAnswer": true
+  },
+  {
+    "id": 669,
+    "audio": "/audio/u_669.mp3",
+    "text": "Жевуны были одеты в зелёные кафтаны.",
+    "correctAnswer": false
+  },
+  {
+    "id": 670,
+    "audio": "/audio/u_670.mp3",
+    "text": "Жевуны поставили на землю шляпы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 671,
+    "audio": "/audio/u_671.mp3",
+    "text": "Элли заплакала.",
+    "correctAnswer": false
+  },
+  {
+    "id": 672,
+    "audio": "/audio/u_672.mp3",
+    "text": "Обыкновенные девочки летают на домиках.",
+    "correctAnswer": false
+  },
+  {
+    "id": 673,
+    "audio": "/audio/u_673.mp3",
+    "text": "У дядюшки Чарли нет левой ноги.",
+    "correctAnswer": true
+  },
+  {
+    "id": 674,
+    "audio": "/audio/u_674.mp3",
+    "text": "Бубенчики зазвенели.",
+    "correctAnswer": true
+  },
+  {
+    "id": 675,
+    "audio": "/audio/u_675.mp3",
+    "text": "Нижние челюсти жевунов всё время двигались.",
+    "correctAnswer": true
+  },
+  {
+    "id": 676,
+    "audio": "/audio/u_676.mp3",
+    "text": "Жевуны засмеялись.",
+    "correctAnswer": false
+  },
+  {
+    "id": 677,
+    "audio": "/audio/u_677.mp3",
+    "text": "Урфин оживил медвежью ногу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 678,
+    "audio": "/audio/u_678.mp3",
+    "text": "Урфин прислал генерала.",
+    "correctAnswer": false
+  },
+  {
+    "id": 679,
+    "audio": "/audio/u_679.mp3",
+    "text": "Элли придётся плохо, если Кабр Гвин узнает об её прибытии.",
+    "correctAnswer": true
+  },
+  {
+    "id": 680,
+    "audio": "/audio/u_680.mp3",
+    "text": "Жевуны задрожали от испуга.",
+    "correctAnswer": true
+  },
+  {
+    "id": 681,
+    "audio": "/audio/u_681.mp3",
+    "text": "Жевуны захохотали.",
+    "correctAnswer": true
+  },
+  {
+    "id": 682,
+    "audio": "/audio/u_682.mp3",
+    "text": "Чарли раскинул палатку в поле.",
+    "correctAnswer": false
+  },
+  {
+    "id": 683,
+    "audio": "/audio/u_683.mp3",
+    "text": "Грустная весть разнеслась по всей стране.",
+    "correctAnswer": false
+  },
+  {
+    "id": 684,
+    "audio": "/audio/u_684.mp3",
+    "text": "Чарли, Элли, ворона и Тотошка устроили полевой совет.",
+    "correctAnswer": false
+  },
+  {
+    "id": 685,
+    "audio": "/audio/u_685.mp3",
+    "text": "У них есть союзник – лев.",
+    "correctAnswer": true
+  },
+  {
+    "id": 686,
+    "audio": "/audio/u_686.mp3",
+    "text": "Ворона улетела.",
+    "correctAnswer": true
+  },
+  {
+    "id": 687,
+    "audio": "/audio/u_687.mp3",
+    "text": "Лев всплакнул.",
+    "correctAnswer": true
+  },
+  {
+    "id": 688,
+    "audio": "/audio/u_688.mp3",
+    "text": "Кагги-Карр решила остановиться на несколько лет в Изумрудном городе.",
+    "correctAnswer": false
+  },
+  {
+    "id": 689,
+    "audio": "/audio/u_689.mp3",
+    "text": "Кагги-Карр направилась на тюремную вышку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 690,
+    "audio": "/audio/u_690.mp3",
+    "text": "Кагги-Карр смогла сохранить тайну о прибытие Элли.",
+    "correctAnswer": false
+  },
+  {
+    "id": 691,
+    "audio": "/audio/u_691.mp3",
+    "text": "Ворона привела на помощь дядю Элли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 692,
+    "audio": "/audio/u_692.mp3",
+    "text": "Ворона взяла с друзей слово.",
+    "correctAnswer": true
+  },
+  {
+    "id": 693,
+    "audio": "/audio/u_693.mp3",
+    "text": "Дровосек научил Страшилу считать.",
+    "correctAnswer": true
+  },
+  {
+    "id": 694,
+    "audio": "/audio/u_694.mp3",
+    "text": "Изумруды были вставлены в ворота.",
+    "correctAnswer": false
+  },
+  {
+    "id": 695,
+    "audio": "/audio/u_695.mp3",
+    "text": "Парковая зелень посинела.",
+    "correctAnswer": false
+  },
+  {
+    "id": 696,
+    "audio": "/audio/u_696.mp3",
+    "text": "Кагги-Карр направилась в башню.",
+    "correctAnswer": false
+  },
+  {
+    "id": 697,
+    "audio": "/audio/u_697.mp3",
+    "text": "Повар Балуоль остался на службе у тирана.",
+    "correctAnswer": true
+  },
+  {
+    "id": 698,
+    "audio": "/audio/u_698.mp3",
+    "text": "Из сердец жителей Изумрудного города исчезла радость.",
+    "correctAnswer": true
+  },
+  {
+    "id": 699,
+    "audio": "/audio/u_699.mp3",
+    "text": "Урфин стал повелителем Изумрудного города.",
+    "correctAnswer": true
+  },
+  {
+    "id": 700,
+    "audio": "/audio/u_700.mp3",
+    "text": "Ворона держала язык перед зубами.",
+    "correctAnswer": false
+  },
+  {
+    "id": 701,
+    "audio": "/audio/u_701.mp3",
+    "text": "Ворона принялась шнырять по лесу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 702,
+    "audio": "/audio/u_702.mp3",
+    "text": "Железный Дрововсек и Страшила стали памятниками.",
+    "correctAnswer": false
+  },
+  {
+    "id": 703,
+    "audio": "/audio/u_703.mp3",
+    "text": "Страшила просунул голову между прутьями решётки.",
+    "correctAnswer": true
+  },
+  {
+    "id": 704,
+    "audio": "/audio/u_704.mp3",
+    "text": "Под башней собралась толпа.",
+    "correctAnswer": true
+  },
+  {
+    "id": 705,
+    "audio": "/audio/u_705.mp3",
+    "text": "Страшила произнёс речь.",
+    "correctAnswer": true
+  },
+  {
+    "id": 706,
+    "audio": "/audio/u_706.mp3",
+    "text": "Элли уже находилась в Изумрудном городе.",
+    "correctAnswer": false
+  },
+  {
+    "id": 707,
+    "audio": "/audio/u_707.mp3",
+    "text": "Руф побежал в лес.",
+    "correctAnswer": false
+  },
+  {
+    "id": 708,
+    "audio": "/audio/u_708.mp3",
+    "text": "Страшила произнёс с крепости зажигательную речь.",
+    "correctAnswer": false
+  },
+  {
+    "id": 709,
+    "audio": "/audio/u_709.mp3",
+    "text": "Урфин приказал поймать Элли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 710,
+    "audio": "/audio/u_710.mp3",
+    "text": "По лестнице затопали шаги.",
+    "correctAnswer": true
+  },
+  {
+    "id": 711,
+    "audio": "/audio/u_711.mp3",
+    "text": "Враги задавили Железного Дровосека.",
+    "correctAnswer": true
+  },
+  {
+    "id": 712,
+    "audio": "/audio/u_712.mp3",
+    "text": "Страшила начала плакать.",
+    "correctAnswer": false
+  },
+  {
+    "id": 713,
+    "audio": "/audio/u_713.mp3",
+    "text": "Ворона распустила перья.",
+    "correctAnswer": false
+  },
+  {
+    "id": 714,
+    "audio": "/audio/u_714.mp3",
+    "text": "Смелый Лев растянулся на лугу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 715,
+    "audio": "/audio/u_715.mp3",
+    "text": "Лев стёр лапы до мяса.",
+    "correctAnswer": true
+  },
+  {
+    "id": 716,
+    "audio": "/audio/u_716.mp3",
+    "text": "Тотошка пугал на деревьях птиц.",
+    "correctAnswer": true
+  },
+  {
+    "id": 717,
+    "audio": "/audio/u_717.mp3",
+    "text": "Тотошка прыгал вокруг льва.",
+    "correctAnswer": true
+  },
+  {
+    "id": 718,
+    "audio": "/audio/u_718.mp3",
+    "text": "Лев путешествует с друзьями.",
+    "correctAnswer": false
+  },
+  {
+    "id": 719,
+    "audio": "/audio/u_719.mp3",
+    "text": "Кагги-Карр глупая птица.",
+    "correctAnswer": false
+  },
+  {
+    "id": 720,
+    "audio": "/audio/u_720.mp3",
+    "text": "Элли играла ушами льва.",
+    "correctAnswer": false
+  },
+  {
+    "id": 721,
+    "audio": "/audio/u_721.mp3",
+    "text": "У льва была одна большая неприятность.",
+    "correctAnswer": false
+  },
+  {
+    "id": 722,
+    "audio": "/audio/u_722.mp3",
+    "text": "Лев застонал.",
+    "correctAnswer": true
+  },
+  {
+    "id": 723,
+    "audio": "/audio/u_723.mp3",
+    "text": "Лев выпил смелости.",
+    "correctAnswer": true
+  },
+  {
+    "id": 724,
+    "audio": "/audio/u_724.mp3",
+    "text": "Дорога была вымощена оранжевым кирпичом.",
+    "correctAnswer": false
+  },
+  {
+    "id": 725,
+    "audio": "/audio/u_725.mp3",
+    "text": "Он забыл о своём избитом хвосте.",
+    "correctAnswer": false
+  },
+  {
+    "id": 726,
+    "audio": "/audio/u_726.mp3",
+    "text": "На дорогу прыгнули два огромных льва.",
+    "correctAnswer": false
+  },
+  {
+    "id": 727,
+    "audio": "/audio/u_727.mp3",
+    "text": "Весь лес дрожал.",
+    "correctAnswer": true
+  },
+  {
+    "id": 728,
+    "audio": "/audio/u_728.mp3",
+    "text": "Кагги-Карр прилетела на следующий день.",
+    "correctAnswer": true
+  },
+  {
+    "id": 729,
+    "audio": "/audio/u_729.mp3",
+    "text": "У девочки было расстроенное лицо.",
+    "correctAnswer": true
+  },
+  {
+    "id": 730,
+    "audio": "/audio/u_730.mp3",
+    "text": "Ворона сразу загрустила.",
+    "correctAnswer": false
+  },
+  {
+    "id": 731,
+    "audio": "/audio/u_731.mp3",
+    "text": "Девочка наступила на флакон с маслом.",
+    "correctAnswer": false
+  },
+  {
+    "id": 732,
+    "audio": "/audio/u_732.mp3",
+    "text": "Элли расплакалась.",
+    "correctAnswer": false
+  },
+  {
+    "id": 733,
+    "audio": "/audio/u_733.mp3",
+    "text": "Элли поднесла рулетку ко Льву.",
+    "correctAnswer": true
+  },
+  {
+    "id": 734,
+    "audio": "/audio/u_734.mp3",
+    "text": "Лев дрожал всем телом.",
+    "correctAnswer": true
+  },
+  {
+    "id": 735,
+    "audio": "/audio/u_735.mp3",
+    "text": "Лапы льва зажили.",
+    "correctAnswer": true
+  },
+  {
+    "id": 736,
+    "audio": "/audio/u_736.mp3",
+    "text": "Нельзя оставлять неприятеля в беде.",
+    "correctAnswer": false
+  },
+  {
+    "id": 737,
+    "audio": "/audio/u_737.mp3",
+    "text": "Чарли мог сражаться со всеми деревянными солдатами сразу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 738,
+    "audio": "/audio/u_738.mp3",
+    "text": "Он когда-то неплохо владел веслом.",
+    "correctAnswer": false
+  },
+  {
+    "id": 739,
+    "audio": "/audio/u_739.mp3",
+    "text": "У одного купца есть мешок золота.",
+    "correctAnswer": true
+  },
+  {
+    "id": 740,
+    "audio": "/audio/u_740.mp3",
+    "text": "Глаза Кабра Гвина загорелись жадным блеском.",
+    "correctAnswer": true
+  },
+  {
+    "id": 741,
+    "audio": "/audio/u_741.mp3",
+    "text": "Капрал крепок держал за руку проводника.",
+    "correctAnswer": true
+  },
+  {
+    "id": 742,
+    "audio": "/audio/u_742.mp3",
+    "text": "Тропинка привела к морю.",
+    "correctAnswer": false
+  },
+  {
+    "id": 743,
+    "audio": "/audio/u_743.mp3",
+    "text": "Капрал раскрыл глаза.",
+    "correctAnswer": false
+  },
+  {
+    "id": 744,
+    "audio": "/audio/u_744.mp3",
+    "text": "Жевуны утащили капрала в реку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 745,
+    "audio": "/audio/u_745.mp3",
+    "text": "На лужайке появился зелёный дуболом.",
+    "correctAnswer": true
+  },
+  {
+    "id": 746,
+    "audio": "/audio/u_746.mp3",
+    "text": "Чарли прихрамывал.",
+    "correctAnswer": true
+  },
+  {
+    "id": 747,
+    "audio": "/audio/u_747.mp3",
+    "text": "Солдаты в плену.",
+    "correctAnswer": true
+  },
+  {
+    "id": 748,
+    "audio": "/audio/u_748.mp3",
+    "text": "Кабр Гвин сражался до последнего.",
+    "correctAnswer": false
+  },
+  {
+    "id": 749,
+    "audio": "/audio/u_749.mp3",
+    "text": "Слова попросила Элли.",
+    "correctAnswer": false
+  },
+  {
+    "id": 750,
+    "audio": "/audio/u_750.mp3",
+    "text": "Глаза Кабр Гвина почернели от страха.",
+    "correctAnswer": false
+  },
+  {
+    "id": 751,
+    "audio": "/audio/u_751.mp3",
+    "text": "Жевуны кричали.",
+    "correctAnswer": true
+  },
+  {
+    "id": 752,
+    "audio": "/audio/u_752.mp3",
+    "text": "Башмачки Элли застучали по жёлтым кирпичам.",
+    "correctAnswer": true
+  },
+  {
+    "id": 753,
+    "audio": "/audio/u_753.mp3",
+    "text": "Ворона сидела на плече у Чарли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 754,
+    "audio": "/audio/u_754.mp3",
+    "text": "Вдоль дороги потянулись деревни.",
+    "correctAnswer": false
+  },
+  {
+    "id": 755,
+    "audio": "/audio/u_755.mp3",
+    "text": "Жевуны засмеялись.",
+    "correctAnswer": false
+  },
+  {
+    "id": 756,
+    "audio": "/audio/u_756.mp3",
+    "text": "Жевуны разразились слезами.",
+    "correctAnswer": false
+  },
+  {
+    "id": 757,
+    "audio": "/audio/u_757.mp3",
+    "text": "Элли радостно закричала.",
+    "correctAnswer": true
+  },
+  {
+    "id": 758,
+    "audio": "/audio/u_758.mp3",
+    "text": "Дровосек оказался славным человеком.",
+    "correctAnswer": true
+  },
+  {
+    "id": 759,
+    "audio": "/audio/u_759.mp3",
+    "text": "Ноги моряка торчали из двери.",
+    "correctAnswer": true
+  },
+  {
+    "id": 760,
+    "audio": "/audio/u_760.mp3",
+    "text": "В пруду живут чудные змеи.",
+    "correctAnswer": false
+  },
+  {
+    "id": 761,
+    "audio": "/audio/u_761.mp3",
+    "text": "Лев всплакнул.",
+    "correctAnswer": false
+  },
+  {
+    "id": 762,
+    "audio": "/audio/u_762.mp3",
+    "text": "Через три дня дорога упёрлась в лес.",
+    "correctAnswer": false
+  },
+  {
+    "id": 763,
+    "audio": "/audio/u_763.mp3",
+    "text": "Надо готовиться к переходу через тигровый лес.",
+    "correctAnswer": true
+  },
+  {
+    "id": 764,
+    "audio": "/audio/u_764.mp3",
+    "text": "Моряк достал из рюкзака полотнище.",
+    "correctAnswer": true
+  },
+  {
+    "id": 765,
+    "audio": "/audio/u_765.mp3",
+    "text": "В пасти торчали огромные острые зубы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 766,
+    "audio": "/audio/u_766.mp3",
+    "text": "Чарли срубил три тонких деревца.",
+    "correctAnswer": false
+  },
+  {
+    "id": 767,
+    "audio": "/audio/u_767.mp3",
+    "text": "Тотошка полез под львиную гриву.",
+    "correctAnswer": false
+  },
+  {
+    "id": 768,
+    "audio": "/audio/u_768.mp3",
+    "text": "Морда начала рычать.",
+    "correctAnswer": false
+  },
+  {
+    "id": 769,
+    "audio": "/audio/u_760.mp3",
+    "text": "Элли пряталась за спиной моряка.",
+    "correctAnswer": true
+  },
+  {
+    "id": 770,
+    "audio": "/audio/u_770.mp3",
+    "text": "Чарли Блек шёл впереди.",
+    "correctAnswer": true
+  },
+  {
+    "id": 771,
+    "audio": "/audio/u_771.mp3",
+    "text": "У льва был могучий рык.",
+    "correctAnswer": true
+  },
+  {
+    "id": 772,
+    "audio": "/audio/u_772.mp3",
+    "text": "Саблезубые тигры выскочили на дорогу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 773,
+    "audio": "/audio/u_773.mp3",
+    "text": "Утром все вышли на берег моря.",
+    "correctAnswer": false
+  },
+  {
+    "id": 774,
+    "audio": "/audio/u_774.mp3",
+    "text": "Все утонули.",
+    "correctAnswer": false
+  },
+  {
+    "id": 775,
+    "audio": "/audio/u_775.mp3",
+    "text": "Внизу краснело маковое поле.",
+    "correctAnswer": true
+  },
+  {
+    "id": 776,
+    "audio": "/audio/u_776.mp3",
+    "text": "Свиток Элли подарила королева-мышь Рамина.",
+    "correctAnswer": true
+  },
+  {
+    "id": 777,
+    "audio": "/audio/u_777.mp3",
+    "text": "Рамина помогла Элли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 778,
+    "audio": "/audio/u_778.mp3",
+    "text": "Переправа через реку совершилась после завтрака.",
+    "correctAnswer": false
+  },
+  {
+    "id": 779,
+    "audio": "/audio/u_779.mp3",
+    "text": "Деревянные солдаты не видят в темноте.",
+    "correctAnswer": false
+  },
+  {
+    "id": 780,
+    "audio": "/audio/u_780.mp3",
+    "text": "Она увидела десять деревянных солдат.",
+    "correctAnswer": false
+  },
+  {
+    "id": 781,
+    "audio": "/audio/u_781.mp3",
+    "text": "Чарли отправил вперёд Льва.",
+    "correctAnswer": true
+  },
+  {
+    "id": 782,
+    "audio": "/audio/u_782.mp3",
+    "text": "Элли взяла ворону на руки.",
+    "correctAnswer": true
+  },
+  {
+    "id": 783,
+    "audio": "/audio/u_783.mp3",
+    "text": "Элли прижалась к дяде Чарли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 784,
+    "audio": "/audio/u_784.mp3",
+    "text": "Тотошка прижался к дереву.",
+    "correctAnswer": false
+  },
+  {
+    "id": 785,
+    "audio": "/audio/u_785.mp3",
+    "text": "Тотошка молчал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 786,
+    "audio": "/audio/u_786.mp3",
+    "text": "Чарли уснул.",
+    "correctAnswer": false
+  },
+  {
+    "id": 787,
+    "audio": "/audio/u_787.mp3",
+    "text": "Поблизости были заросли кустарника.",
+    "correctAnswer": true
+  },
+  {
+    "id": 788,
+    "audio": "/audio/u_788.mp3",
+    "text": "Чарли срезал несколько кустиков.",
+    "correctAnswer": true
+  },
+  {
+    "id": 789,
+    "audio": "/audio/u_789.mp3",
+    "text": "Кагги-Карр полетела на разведку.",
+    "correctAnswer": true
+  },
+  {
+    "id": 790,
+    "audio": "/audio/u_790.mp3",
+    "text": "В башню ведёт навесной мост.",
+    "correctAnswer": false
+  },
+  {
+    "id": 791,
+    "audio": "/audio/u_791.mp3",
+    "text": "Элли дунула в золотой свиток.",
+    "correctAnswer": false
+  },
+  {
+    "id": 792,
+    "audio": "/audio/u_792.mp3",
+    "text": "Перед Элли появился Урфин.",
+    "correctAnswer": false
+  },
+  {
+    "id": 793,
+    "audio": "/audio/u_793.mp3",
+    "text": "В окрестностях есть вход в подземный коридор.",
+    "correctAnswer": true
+  },
+  {
+    "id": 794,
+    "audio": "/audio/u_794.mp3",
+    "text": "Рамина хлопнула передними лапками.",
+    "correctAnswer": true
+  },
+  {
+    "id": 795,
+    "audio": "/audio/u_795.mp3",
+    "text": "Возле королевы начали собираться маленькие мыши.",
+    "correctAnswer": true
+  },
+  {
+    "id": 796,
+    "audio": "/audio/u_796.mp3",
+    "text": "Дедушку попросили остаться на месте.",
+    "correctAnswer": false
+  },
+  {
+    "id": 797,
+    "audio": "/audio/u_797.mp3",
+    "text": "Старая мышь открыла глаза.",
+    "correctAnswer": false
+  },
+  {
+    "id": 798,
+    "audio": "/audio/u_798.mp3",
+    "text": "В подземном ходе можно стукнуться с кроликом.",
+    "correctAnswer": false
+  },
+  {
+    "id": 799,
+    "audio": "/audio/u_799.mp3",
+    "text": "Под землёй лежит Страна рудокопов.",
+    "correctAnswer": true
+  },
+  {
+    "id": 800,
+    "audio": "/audio/u_800.mp3",
+    "text": "Рудокопы не терпят, когда кто-то вмешивается в их дела.",
+    "correctAnswer": true
+  },
+  {
+    "id": 801,
+    "audio": "/audio/u_801.mp3",
+    "text": "Рудокопы выплавляют из руды металл.",
+    "correctAnswer": true
+  },
+  {
+    "id": 802,
+    "audio": "/audio/u_802.mp3",
+    "text": "Гудвин приобрёл алмазы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 803,
+    "audio": "/audio/u_803.mp3",
+    "text": "Глаза рудокопов не выносят лунного света.",
+    "correctAnswer": false
+  },
+  {
+    "id": 804,
+    "audio": "/audio/u_804.mp3",
+    "text": "Мыши нашли подземный ход.",
+    "correctAnswer": false
+  },
+  {
+    "id": 805,
+    "audio": "/audio/u_805.mp3",
+    "text": "Старая мышь видела в стене оврага отверстие.",
+    "correctAnswer": true
+  },
+  {
+    "id": 806,
+    "audio": "/audio/u_806.mp3",
+    "text": "Элли сказала спасибо.",
+    "correctAnswer": true
+  },
+  {
+    "id": 807,
+    "audio": "/audio/u_807.mp3",
+    "text": "Они прошли 15 тысяч мышиных шагов.",
+    "correctAnswer": true
+  },
+  {
+    "id": 808,
+    "audio": "/audio/u_808.mp3",
+    "text": "Тотошка расчищал проход.",
+    "correctAnswer": false
+  },
+  {
+    "id": 809,
+    "audio": "/audio/u_809.mp3",
+    "text": "Ворона сидела на плече у Льва.",
+    "correctAnswer": false
+  },
+  {
+    "id": 810,
+    "audio": "/audio/u_810.mp3",
+    "text": "В лужах воды копошились жабы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 811,
+    "audio": "/audio/u_811.mp3",
+    "text": "Пол превратился в лестницу.",
+    "correctAnswer": true
+  },
+  {
+    "id": 812,
+    "audio": "/audio/u_812.mp3",
+    "text": "Чарли зажёг факел.",
+    "correctAnswer": true
+  },
+  {
+    "id": 813,
+    "audio": "/audio/u_813.mp3",
+    "text": "Из отверстия вылез зверь.",
+    "correctAnswer": true
+  },
+  {
+    "id": 814,
+    "audio": "/audio/u_814.mp3",
+    "text": "У зверя было 8 лап.",
+    "correctAnswer": false
+  },
+  {
+    "id": 815,
+    "audio": "/audio/u_815.mp3",
+    "text": "Лев не умеет рычать.",
+    "correctAnswer": false
+  },
+  {
+    "id": 816,
+    "audio": "/audio/u_816.mp3",
+    "text": "Зверь цапнул льва за ухо.",
+    "correctAnswer": false
+  },
+  {
+    "id": 817,
+    "audio": "/audio/u_817.mp3",
+    "text": "Чарли отдал факел Элли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 818,
+    "audio": "/audio/u_818.mp3",
+    "text": "Элли дрожала от страха.",
+    "correctAnswer": true
+  },
+  {
+    "id": 819,
+    "audio": "/audio/u_819.mp3",
+    "text": "Петля обвила шею зверя.",
+    "correctAnswer": true
+  },
+  {
+    "id": 820,
+    "audio": "/audio/u_820.mp3",
+    "text": "Кагги-Карр начала долбить зверя в плечо.",
+    "correctAnswer": false
+  },
+  {
+    "id": 821,
+    "audio": "/audio/u_821.mp3",
+    "text": "Шкура зверя оказалась такой тонкой.",
+    "correctAnswer": false
+  },
+  {
+    "id": 822,
+    "audio": "/audio/u_822.mp3",
+    "text": "Шестилапый встал на руки.",
+    "correctAnswer": false
+  },
+  {
+    "id": 823,
+    "audio": "/audio/u_823.mp3",
+    "text": "Элли ткнула факелом в бок шестилапого.",
+    "correctAnswer": true
+  },
+  {
+    "id": 824,
+    "audio": "/audio/u_824.mp3",
+    "text": "Моряк успел подхватить аркан.",
+    "correctAnswer": true
+  },
+  {
+    "id": 825,
+    "audio": "/audio/u_825.mp3",
+    "text": "Ворона летела вперёд.",
+    "correctAnswer": true
+  },
+  {
+    "id": 826,
+    "audio": "/audio/u_826.mp3",
+    "text": "Чарли растянулся на полу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 827,
+    "audio": "/audio/u_827.mp3",
+    "text": "Пёсик стоял у двери.",
+    "correctAnswer": false
+  },
+  {
+    "id": 828,
+    "audio": "/audio/u_828.mp3",
+    "text": "За окном была весна.",
+    "correctAnswer": false
+  },
+  {
+    "id": 829,
+    "audio": "/audio/u_829.mp3",
+    "text": "Элли смотрела вниз.",
+    "correctAnswer": true
+  },
+  {
+    "id": 830,
+    "audio": "/audio/u_830.mp3",
+    "text": "Моряк свистнул.",
+    "correctAnswer": true
+  },
+  {
+    "id": 831,
+    "audio": "/audio/u_831.mp3",
+    "text": "Королева мышей говорила правду.",
+    "correctAnswer": true
+  },
+  {
+    "id": 832,
+    "audio": "/audio/u_832.mp3",
+    "text": "Моряк и девочка смотрели в бинокль.",
+    "correctAnswer": false
+  },
+  {
+    "id": 833,
+    "audio": "/audio/u_833.mp3",
+    "text": "Зелёные облака освещали пещеру.",
+    "correctAnswer": false
+  },
+  {
+    "id": 834,
+    "audio": "/audio/u_834.mp3",
+    "text": "Пейзаж навевал радость.",
+    "correctAnswer": false
+  },
+  {
+    "id": 835,
+    "audio": "/audio/u_835.mp3",
+    "text": "На берегу озера был расположен город.",
+    "correctAnswer": true
+  },
+  {
+    "id": 836,
+    "audio": "/audio/u_836.mp3",
+    "text": "В озере вертится громадное колесо.",
+    "correctAnswer": true
+  },
+  {
+    "id": 837,
+    "audio": "/audio/u_837.mp3",
+    "text": "Девочку охватил страх.",
+    "correctAnswer": false
+  },
+  {
+    "id": 838,
+    "audio": "/audio/u_838.mp3",
+    "text": "Моряк перестал смотреть на шестипалого.",
+    "correctAnswer": false
+  },
+  {
+    "id": 839,
+    "audio": "/audio/u_839.mp3",
+    "text": "Моряк и Элли наводили трубу на луга.",
+    "correctAnswer": true
+  },
+  {
+    "id": 840,
+    "audio": "/audio/u_840.mp3",
+    "text": "Тотошка ворчал.",
+    "correctAnswer": true
+  },
+  {
+    "id": 841,
+    "audio": "/audio/u_841.mp3",
+    "text": "Элли вскрикнула от радости.",
+    "correctAnswer": false
+  },
+  {
+    "id": 842,
+    "audio": "/audio/u_842.mp3",
+    "text": "У ящера был зелёный язык.",
+    "correctAnswer": false
+  },
+  {
+    "id": 843,
+    "audio": "/audio/u_843.mp3",
+    "text": "На спине чудовища сидел человек.",
+    "correctAnswer": true
+  },
+  {
+    "id": 844,
+    "audio": "/audio/u_844.mp3",
+    "text": "Подземные рудокопы сумели приручить дракона.",
+    "correctAnswer": true
+  },
+  {
+    "id": 845,
+    "audio": "/audio/u_845.mp3",
+    "text": "У человека на драконе были чёрные глаза.",
+    "correctAnswer": true
+  },
+  {
+    "id": 846,
+    "audio": "/audio/u_846.mp3",
+    "text": "Воздушный страж потянул из-за спины меч.",
+    "correctAnswer": false
+  },
+  {
+    "id": 847,
+    "audio": "/audio/u_847.mp3",
+    "text": "Тотошка съел стрелу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 848,
+    "audio": "/audio/u_848.mp3",
+    "text": "С подземными жителями опасно связываться.",
+    "correctAnswer": true
+  },
+  {
+    "id": 849,
+    "audio": "/audio/u_849.mp3",
+    "text": "Путники оставили опасную площадку.",
+    "correctAnswer": true
+  },
+  {
+    "id": 850,
+    "audio": "/audio/u_850.mp3",
+    "text": "Моряк зашагал назад.",
+    "correctAnswer": false
+  },
+  {
+    "id": 851,
+    "audio": "/audio/u_851.mp3",
+    "text": "Ход привёл к морю.",
+    "correctAnswer": false
+  },
+  {
+    "id": 852,
+    "audio": "/audio/u_852.mp3",
+    "text": "Чарли расширил дырку клинком ножа.",
+    "correctAnswer": true
+  },
+  {
+    "id": 853,
+    "audio": "/audio/u_853.mp3",
+    "text": "Чарли выпилил квадратное отверстие.",
+    "correctAnswer": true
+  },
+  {
+    "id": 854,
+    "audio": "/audio/u_854.mp3",
+    "text": "Моряк почесал в затылке.",
+    "correctAnswer": true
+  },
+  {
+    "id": 855,
+    "audio": "/audio/u_855.mp3",
+    "text": "Страшила и Дровосек сбежали из башни.",
+    "correctAnswer": false
+  },
+  {
+    "id": 856,
+    "audio": "/audio/u_856.mp3",
+    "text": "Чарли постукивал железкой по ступенькам.",
+    "correctAnswer": false
+  },
+  {
+    "id": 857,
+    "audio": "/audio/u_857.mp3",
+    "text": "Девочка приложила палец с носу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 858,
+    "audio": "/audio/u_858.mp3",
+    "text": "Железный Дровосек снял с головы воронку.",
+    "correctAnswer": true
+  },
+  {
+    "id": 859,
+    "audio": "/audio/u_859.mp3",
+    "text": "У Кагги-Карр чёрные глаза.",
+    "correctAnswer": true
+  },
+  {
+    "id": 860,
+    "audio": "/audio/u_860.mp3",
+    "text": "Страшила сослепу попал Дровосеку в нос.",
+    "correctAnswer": false
+  },
+  {
+    "id": 861,
+    "audio": "/audio/u_861.mp3",
+    "text": "Страшила грустно прокричал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 862,
+    "audio": "/audio/u_862.mp3",
+    "text": "Чарли прикрыл себе рот рукой.",
+    "correctAnswer": true
+  },
+  {
+    "id": 863,
+    "audio": "/audio/u_863.mp3",
+    "text": "У Страшилы испортились мозги.",
+    "correctAnswer": true
+  },
+  {
+    "id": 864,
+    "audio": "/audio/u_864.mp3",
+    "text": "Наступило молчание.",
+    "correctAnswer": true
+  },
+  {
+    "id": 865,
+    "audio": "/audio/u_865.mp3",
+    "text": "Дверь охранял Урфин.",
+    "correctAnswer": false
+  },
+  {
+    "id": 866,
+    "audio": "/audio/u_866.mp3",
+    "text": "Инструмент был слишком лёгким.",
+    "correctAnswer": false
+  },
+  {
+    "id": 867,
+    "audio": "/audio/u_867.mp3",
+    "text": "Дуболомы сторожат окна.",
+    "correctAnswer": false
+  },
+  {
+    "id": 868,
+    "audio": "/audio/u_868.mp3",
+    "text": "Страшила и Железный Дровосек не могут пролезть между прутьев решётки.",
+    "correctAnswer": true
+  },
+  {
+    "id": 869,
+    "audio": "/audio/u_869.mp3",
+    "text": "Жена Кокуса была родом из Изумрудной страны.",
+    "correctAnswer": true
+  },
+  {
+    "id": 870,
+    "audio": "/audio/u_870.mp3",
+    "text": "Чарли достал из рюкзака телефон.",
+    "correctAnswer": false
+  },
+  {
+    "id": 871,
+    "audio": "/audio/u_871.mp3",
+    "text": "Элли взяла сумочку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 872,
+    "audio": "/audio/u_872.mp3",
+    "text": "Она коснулась ногами воды.",
+    "correctAnswer": false
+  },
+  {
+    "id": 873,
+    "audio": "/audio/u_873.mp3",
+    "text": "Элли набрала в корзину ягод.",
+    "correctAnswer": true
+  },
+  {
+    "id": 874,
+    "audio": "/audio/u_874.mp3",
+    "text": "Элли шла по улицам.",
+    "correctAnswer": true
+  },
+  {
+    "id": 875,
+    "audio": "/audio/u_875.mp3",
+    "text": "Первым проснулся Фарамант.",
+    "correctAnswer": true
+  },
+  {
+    "id": 876,
+    "audio": "/audio/u_876.mp3",
+    "text": "Тюремщик находился за деревянной дверью.",
+    "correctAnswer": false
+  },
+  {
+    "id": 877,
+    "audio": "/audio/u_877.mp3",
+    "text": "Через двадцать минуть прутья решётки были перепилены.",
+    "correctAnswer": false
+  },
+  {
+    "id": 878,
+    "audio": "/audio/u_878.mp3",
+    "text": "Дин Гиор наклонился к окну.",
+    "correctAnswer": true
+  },
+  {
+    "id": 879,
+    "audio": "/audio/u_879.mp3",
+    "text": "Дин Гиор заскрипел зубами.",
+    "correctAnswer": true
+  },
+  {
+    "id": 880,
+    "audio": "/audio/u_880.mp3",
+    "text": "Им пришлось перебраться через крышу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 881,
+    "audio": "/audio/u_881.mp3",
+    "text": "Подземный ход начинался в лесу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 882,
+    "audio": "/audio/u_882.mp3",
+    "text": "Донёсся крик кукушки.",
+    "correctAnswer": true
+  },
+  {
+    "id": 883,
+    "audio": "/audio/u_883.mp3",
+    "text": "Полицейские бросились на поиски.",
+    "correctAnswer": true
+  },
+  {
+    "id": 884,
+    "audio": "/audio/u_884.mp3",
+    "text": "Солдаты мчались по дороге.",
+    "correctAnswer": true
+  },
+  {
+    "id": 885,
+    "audio": "/audio/u_885.mp3",
+    "text": "Начальник полиции забегал в кафе.",
+    "correctAnswer": false
+  },
+  {
+    "id": 886,
+    "audio": "/audio/u_886.mp3",
+    "text": "Река впереди оставалась пустынной.",
+    "correctAnswer": false
+  },
+  {
+    "id": 887,
+    "audio": "/audio/u_887.mp3",
+    "text": "Начальнику полиции отбили нос.",
+    "correctAnswer": false
+  },
+  {
+    "id": 888,
+    "audio": "/audio/u_888.mp3",
+    "text": "Руф Билан побледнел от ужаса.",
+    "correctAnswer": true
+  },
+  {
+    "id": 889,
+    "audio": "/audio/u_889.mp3",
+    "text": "Погиб начальник полиции.",
+    "correctAnswer": true
+  },
+  {
+    "id": 890,
+    "audio": "/audio/u_890.mp3",
+    "text": "- Короче! – прошептал радостный Джюс.",
+    "correctAnswer": false
+  },
+  {
+    "id": 891,
+    "audio": "/audio/u_891.mp3",
+    "text": "Чарли повёл компанию вверх.",
+    "correctAnswer": false
+  },
+  {
+    "id": 892,
+    "audio": "/audio/u_892.mp3",
+    "text": "Страшиле помяли кафтан.",
+    "correctAnswer": true
+  },
+  {
+    "id": 893,
+    "audio": "/audio/u_893.mp3",
+    "text": "Дровосека вооружили железной полосой.",
+    "correctAnswer": true
+  },
+  {
+    "id": 894,
+    "audio": "/audio/u_894.mp3",
+    "text": "Окно было заделано.",
+    "correctAnswer": true
+  },
+  {
+    "id": 895,
+    "audio": "/audio/u_895.mp3",
+    "text": "Шестипалы сидел в пещере.",
+    "correctAnswer": false
+  },
+  {
+    "id": 896,
+    "audio": "/audio/u_896.mp3",
+    "text": "Моряк боялся встречи со зверем.",
+    "correctAnswer": false
+  },
+  {
+    "id": 897,
+    "audio": "/audio/u_897.mp3",
+    "text": "Одежда правителя порвалась.",
+    "correctAnswer": true
+  },
+  {
+    "id": 898,
+    "audio": "/audio/u_898.mp3",
+    "text": "Элли сняла со страшили голову.",
+    "correctAnswer": true
+  },
+  {
+    "id": 899,
+    "audio": "/audio/u_899.mp3",
+    "text": "Элли набила сапоги огурцами.",
+    "correctAnswer": false
+  },
+  {
+    "id": 900,
+    "audio": "/audio/u_900.mp3",
+    "text": "Радостный Страшила пустился в бега.",
+    "correctAnswer": false
+  },
+  {
+    "id": 901,
+    "audio": "/audio/u_901.mp3",
+    "text": "Страшила заплакал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 902,
+    "audio": "/audio/u_902.mp3",
+    "text": "Чарли подарил Страшиле трость.",
+    "correctAnswer": true
+  },
+  {
+    "id": 903,
+    "audio": "/audio/u_903.mp3",
+    "text": "В голове у Страшилы появились великие мысли.",
+    "correctAnswer": true
+  },
+  {
+    "id": 904,
+    "audio": "/audio/u_904.mp3",
+    "text": "Лев зарычал.",
+    "correctAnswer": true
+  },
+  {
+    "id": 905,
+    "audio": "/audio/u_905.mp3",
+    "text": "У Энкин Фледа были фиолетовые волосы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 906,
+    "audio": "/audio/u_906.mp3",
+    "text": "Кухарку звали Вера.",
+    "correctAnswer": false
+  },
+  {
+    "id": 907,
+    "audio": "/audio/u_907.mp3",
+    "text": "Энкин Флед боялся восстания.",
+    "correctAnswer": true
+  },
+  {
+    "id": 908,
+    "audio": "/audio/u_908.mp3",
+    "text": "Наместник увидел два старинных кинжала.",
+    "correctAnswer": true
+  },
+  {
+    "id": 909,
+    "audio": "/audio/u_909.mp3",
+    "text": "У Дровосека очень простой механизм.",
+    "correctAnswer": false
+  },
+  {
+    "id": 910,
+    "audio": "/audio/u_910.mp3",
+    "text": "Энкин Флед затопал руками.",
+    "correctAnswer": false
+  },
+  {
+    "id": 911,
+    "audio": "/audio/u_911.mp3",
+    "text": "Мастера не смогли сделать кинжалы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 912,
+    "audio": "/audio/u_912.mp3",
+    "text": "Флед побоялся бы напасть даже на овцу.",
+    "correctAnswer": true
+  },
+  {
+    "id": 913,
+    "audio": "/audio/u_913.mp3",
+    "text": "Армия освободителей состояла из двух бойцов.",
+    "correctAnswer": true
+  },
+  {
+    "id": 914,
+    "audio": "/audio/u_914.mp3",
+    "text": "В груди у Железного Дровосека билось сердце.",
+    "correctAnswer": true
+  },
+  {
+    "id": 915,
+    "audio": "/audio/u_915.mp3",
+    "text": "На дороге валялся топор.",
+    "correctAnswer": false
+  },
+  {
+    "id": 916,
+    "audio": "/audio/u_916.mp3",
+    "text": "Дровосек рассёк воду молотом.",
+    "correctAnswer": false
+  },
+  {
+    "id": 917,
+    "audio": "/audio/u_917.mp3",
+    "text": "Кагги-Карр хотела послать в разведку воробья.",
+    "correctAnswer": true
+  },
+  {
+    "id": 918,
+    "audio": "/audio/u_918.mp3",
+    "text": "Дин Гиор расчёсывал свою бороду.",
+    "correctAnswer": true
+  },
+  {
+    "id": 919,
+    "audio": "/audio/u_919.mp3",
+    "text": "Страшила считал, что неприятеля нужно вызвать в лес.",
+    "correctAnswer": false
+  },
+  {
+    "id": 920,
+    "audio": "/audio/u_920.mp3",
+    "text": "Письмо было написано на пергаменте.",
+    "correctAnswer": false
+  },
+  {
+    "id": 921,
+    "audio": "/audio/u_921.mp3",
+    "text": "К Энкин Фледу вошёл повар.",
+    "correctAnswer": false
+  },
+  {
+    "id": 922,
+    "audio": "/audio/u_922.mp3",
+    "text": "В залу вошла ворона.",
+    "correctAnswer": true
+  },
+  {
+    "id": 923,
+    "audio": "/audio/u_923.mp3",
+    "text": "Армией Урфина командует генерал Лан Пирот.",
+    "correctAnswer": true
+  },
+  {
+    "id": 924,
+    "audio": "/audio/u_924.mp3",
+    "text": "Кагги-Карр взлетела на шкаф.",
+    "correctAnswer": true
+  },
+  {
+    "id": 925,
+    "audio": "/audio/u_925.mp3",
+    "text": "Они борются за еду.",
+    "correctAnswer": false
+  },
+  {
+    "id": 926,
+    "audio": "/audio/u_926.mp3",
+    "text": "Энкин Флед долго плакал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 927,
+    "audio": "/audio/u_927.mp3",
+    "text": "Кагги-Карр покинула дворец.",
+    "correctAnswer": true
+  },
+  {
+    "id": 928,
+    "audio": "/audio/u_928.mp3",
+    "text": "Железный дровосек казался не очень грозным противником.",
+    "correctAnswer": true
+  },
+  {
+    "id": 929,
+    "audio": "/audio/u_929.mp3",
+    "text": "Лев спрятался за деревом.",
+    "correctAnswer": false
+  },
+  {
+    "id": 930,
+    "audio": "/audio/u_930.mp3",
+    "text": "Перед взводом шагал генерал Эльвед.",
+    "correctAnswer": false
+  },
+  {
+    "id": 931,
+    "audio": "/audio/u_931.mp3",
+    "text": "Мигуны попрятались за деревьями.",
+    "correctAnswer": false
+  },
+  {
+    "id": 932,
+    "audio": "/audio/u_932.mp3",
+    "text": "Дровосек был один против одинадцати.",
+    "correctAnswer": true
+  },
+  {
+    "id": 933,
+    "audio": "/audio/u_933.mp3",
+    "text": "Удары молода Дровосека разбивали на куски туловища дуболомов.",
+    "correctAnswer": true
+  },
+  {
+    "id": 934,
+    "audio": "/audio/u_934.mp3",
+    "text": "Дровосек зашатался.",
+    "correctAnswer": true
+  },
+  {
+    "id": 935,
+    "audio": "/audio/u_935.mp3",
+    "text": "Капрал нанёс ужасный удар по голове Дровосека.",
+    "correctAnswer": false
+  },
+  {
+    "id": 936,
+    "audio": "/audio/u_936.mp3",
+    "text": "Лев спрятался  в засаде.",
+    "correctAnswer": false
+  },
+  {
+    "id": 937,
+    "audio": "/audio/u_937.mp3",
+    "text": "Меленький человечек бросился под ноги Эльведу.",
+    "correctAnswer": true
+  },
+  {
+    "id": 938,
+    "audio": "/audio/u_938.mp3",
+    "text": "Капрал свалился на песок.",
+    "correctAnswer": true
+  },
+  {
+    "id": 939,
+    "audio": "/audio/u_939.mp3",
+    "text": "Над головами наместника и капрала поднялись топоры.",
+    "correctAnswer": false
+  },
+  {
+    "id": 940,
+    "audio": "/audio/u_940.mp3",
+    "text": "Пленников съели.",
+    "correctAnswer": false
+  },
+  {
+    "id": 941,
+    "audio": "/audio/u_941.mp3",
+    "text": "Элли впала в уныние.",
+    "correctAnswer": false
+  },
+  {
+    "id": 942,
+    "audio": "/audio/u_942.mp3",
+    "text": "Чарли склонился над Дровосеком.",
+    "correctAnswer": true
+  },
+  {
+    "id": 943,
+    "audio": "/audio/u_943.mp3",
+    "text": "Дровосек будет как новенький через три дня.",
+    "correctAnswer": true
+  },
+  {
+    "id": 944,
+    "audio": "/audio/u_944.mp3",
+    "text": "Из глаз у мигунов покатились крупные слёзы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 945,
+    "audio": "/audio/u_945.mp3",
+    "text": "Фрегоза вымыла Элли в реке.",
+    "correctAnswer": false
+  },
+  {
+    "id": 946,
+    "audio": "/audio/u_946.mp3",
+    "text": "Тотошка пил чай.",
+    "correctAnswer": false
+  },
+  {
+    "id": 947,
+    "audio": "/audio/u_947.mp3",
+    "text": "Мигуны – добрый народ.",
+    "correctAnswer": true
+  },
+  {
+    "id": 948,
+    "audio": "/audio/u_948.mp3",
+    "text": "Дровосек вновь предстал перед друзьями.",
+    "correctAnswer": true
+  },
+  {
+    "id": 949,
+    "audio": "/audio/u_949.mp3",
+    "text": "Мастера сделали Дровосеку новый серебряный топор.",
+    "correctAnswer": false
+  },
+  {
+    "id": 950,
+    "audio": "/audio/u_950.mp3",
+    "text": "Страшила решил ходить, опираясь сразу на три трости.",
+    "correctAnswer": false
+  },
+  {
+    "id": 951,
+    "audio": "/audio/u_951.mp3",
+    "text": "Страшила обрадовался.",
+    "correctAnswer": false
+  },
+  {
+    "id": 952,
+    "audio": "/audio/u_952.mp3",
+    "text": "Элли подарили золотую шапку.",
+    "correctAnswer": true
+  },
+  {
+    "id": 953,
+    "audio": "/audio/u_953.mp3",
+    "text": "Элли надела башмачки и шапку.",
+    "correctAnswer": true
+  },
+  {
+    "id": 954,
+    "audio": "/audio/u_954.mp3",
+    "text": "Чарли сделали золотую ногу.",
+    "correctAnswer": true
+  },
+  {
+    "id": 955,
+    "audio": "/audio/u_955.mp3",
+    "text": "Чарли попросил сделать железную ногу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 956,
+    "audio": "/audio/u_956.mp3",
+    "text": "У Дин Гиора были лучшие усы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 957,
+    "audio": "/audio/u_957.mp3",
+    "text": "Страшила танцевал вокруг Дровосека.",
+    "correctAnswer": true
+  },
+  {
+    "id": 958,
+    "audio": "/audio/u_958.mp3",
+    "text": "Лев вытирал слёзы кончиком хвоста.",
+    "correctAnswer": true
+  },
+  {
+    "id": 959,
+    "audio": "/audio/u_959.mp3",
+    "text": "Дин Гиор расчёсывал бороду серебреным гребешком.",
+    "correctAnswer": false
+  },
+  {
+    "id": 960,
+    "audio": "/audio/u_960.mp3",
+    "text": "Наиболее пригодным вооружением против армии Джюса будут бомбы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 961,
+    "audio": "/audio/u_961.mp3",
+    "text": "Все члены совета выразили своё сомнение.",
+    "correctAnswer": false
+  },
+  {
+    "id": 962,
+    "audio": "/audio/u_962.mp3",
+    "text": "В Изумрудной стране назревал праздник.",
+    "correctAnswer": false
+  },
+  {
+    "id": 963,
+    "audio": "/audio/u_963.mp3",
+    "text": "Все собирались по ночам.",
+    "correctAnswer": true
+  },
+  {
+    "id": 964,
+    "audio": "/audio/u_964.mp3",
+    "text": "Урфин Джюс выпускал новых солдат.",
+    "correctAnswer": true
+  },
+  {
+    "id": 965,
+    "audio": "/audio/u_965.mp3",
+    "text": "Урфин теперь не гнался за внешней отделкой воинов.",
+    "correctAnswer": true
+  },
+  {
+    "id": 966,
+    "audio": "/audio/u_966.mp3",
+    "text": "Урфин ежедневно выпускал 100 солдат.",
+    "correctAnswer": false
+  },
+  {
+    "id": 967,
+    "audio": "/audio/u_967.mp3",
+    "text": "Он ежедневно спал по 10 часов.",
+    "correctAnswer": false
+  },
+  {
+    "id": 968,
+    "audio": "/audio/u_968.mp3",
+    "text": "Капрал был из красного дерева.",
+    "correctAnswer": true
+  },
+  {
+    "id": 969,
+    "audio": "/audio/u_969.mp3",
+    "text": "У Урфина закончился волшебный порошок.",
+    "correctAnswer": true
+  },
+  {
+    "id": 970,
+    "audio": "/audio/u_970.mp3",
+    "text": "Из фляг текла вода.",
+    "correctAnswer": false
+  },
+  {
+    "id": 971,
+    "audio": "/audio/u_971.mp3",
+    "text": "К Урфину пришла радость.",
+    "correctAnswer": false
+  },
+  {
+    "id": 972,
+    "audio": "/audio/u_972.mp3",
+    "text": "Урфин разделил снадобье на 12 частей.",
+    "correctAnswer": false
+  },
+  {
+    "id": 973,
+    "audio": "/audio/u_973.mp3",
+    "text": "Маленькие порции порошка не смогли вдохнуть достаточно жизни в солдат.",
+    "correctAnswer": true
+  },
+  {
+    "id": 974,
+    "audio": "/audio/u_974.mp3",
+    "text": "К двери мастерской солдаты шли полтора часа.",
+    "correctAnswer": true
+  },
+  {
+    "id": 975,
+    "audio": "/audio/u_975.mp3",
+    "text": "Полицейские вернулись с тревожными известями.",
+    "correctAnswer": true
+  },
+  {
+    "id": 976,
+    "audio": "/audio/u_976.mp3",
+    "text": "На Урфина скоро выступит войско в несколько тысяч мигунов.",
+    "correctAnswer": false
+  },
+  {
+    "id": 977,
+    "audio": "/audio/u_977.mp3",
+    "text": "Мигуны учились танцевать под руководством Дина Гиора.",
+    "correctAnswer": false
+  },
+  {
+    "id": 978,
+    "audio": "/audio/u_978.mp3",
+    "text": "Урфин решил повести свою армию в поход.",
+    "correctAnswer": true
+  },
+  {
+    "id": 979,
+    "audio": "/audio/u_979.mp3",
+    "text": "Выступать навстречу неприятелю было опасно.",
+    "correctAnswer": true
+  },
+  {
+    "id": 980,
+    "audio": "/audio/u_980.mp3",
+    "text": "Лан Пирот заплакал.",
+    "correctAnswer": false
+  },
+  {
+    "id": 981,
+    "audio": "/audio/u_981.mp3",
+    "text": "В составе армии Урфина было 200 солдат.",
+    "correctAnswer": false
+  },
+  {
+    "id": 982,
+    "audio": "/audio/u_982.mp3",
+    "text": "Встреча произошла в лесу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 983,
+    "audio": "/audio/u_983.mp3",
+    "text": "Войско мигунов было фиолетового цвета.",
+    "correctAnswer": true
+  },
+  {
+    "id": 984,
+    "audio": "/audio/u_984.mp3",
+    "text": "Урфину Джюсу стало не по себе.",
+    "correctAnswer": true
+  },
+  {
+    "id": 985,
+    "audio": "/audio/u_985.mp3",
+    "text": "В Изумрудном городе можно долго выдержать осаду.",
+    "correctAnswer": true
+  },
+  {
+    "id": 986,
+    "audio": "/audio/u_986.mp3",
+    "text": "Урфина затряс смех.",
+    "correctAnswer": false
+  },
+  {
+    "id": 987,
+    "audio": "/audio/u_987.mp3",
+    "text": "Генерал Лан Пирот разинул глаза.",
+    "correctAnswer": false
+  },
+  {
+    "id": 988,
+    "audio": "/audio/u_988.mp3",
+    "text": "Армия Урфина бросилась в рассыпную.",
+    "correctAnswer": true
+  },
+  {
+    "id": 989,
+    "audio": "/audio/u_989.mp3",
+    "text": "Мигнуы начали ловить дуболомов.",
+    "correctAnswer": true
+  },
+  {
+    "id": 990,
+    "audio": "/audio/u_990.mp3",
+    "text": "Урфин Джюс решил спрятаться в овраге.",
+    "correctAnswer": false
+  },
+  {
+    "id": 991,
+    "audio": "/audio/u_991.mp3",
+    "text": "Урфин смеялся.",
+    "correctAnswer": false
+  },
+  {
+    "id": 992,
+    "audio": "/audio/u_992.mp3",
+    "text": "Страшила держал в руке трубку.",
+    "correctAnswer": false
+  },
+  {
+    "id": 993,
+    "audio": "/audio/u_993.mp3",
+    "text": "Дровосек был неотразимо-блестящим в сверкающей воронке.",
+    "correctAnswer": true
+  },
+  {
+    "id": 994,
+    "audio": "/audio/u_994.mp3",
+    "text": "Дровосек шёл, улыбался и кланялся.",
+    "correctAnswer": true
+  },
+  {
+    "id": 995,
+    "audio": "/audio/u_995.mp3",
+    "text": "Элли сидела на спине Льва.",
+    "correctAnswer": true
+  },
+  {
+    "id": 996,
+    "audio": "/audio/u_996.mp3",
+    "text": "В Волшебной стране было море.",
+    "correctAnswer": false
+  },
+  {
+    "id": 997,
+    "audio": "/audio/u_997.mp3",
+    "text": "Элли и Чарли забрасывали конфетами.",
+    "correctAnswer": false
+  },
+  {
+    "id": 998,
+    "audio": "/audio/u_998.mp3",
+    "text": "Льву досталась своя доля поздравлений.",
+    "correctAnswer": true
+  },
+  {
+    "id": 999,
+    "audio": "/audio/u_999.mp3",
+    "text": "Грива льва превратилась в тысячу косичек.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1000,
+    "audio": "/audio/u_1000.mp3",
+    "text": "Лестар бросился под ноги Урфину.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1001,
+    "audio": "/audio/u_1001.mp3",
+    "text": "Кагги-Карр совершила путешествие через море.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1002,
+    "audio": "/audio/u_1002.mp3",
+    "text": "У Тотошки были зелёные глаза.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1003,
+    "audio": "/audio/u_1003.mp3",
+    "text": "Вечером мигуны отправились на родину.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1004,
+    "audio": "/audio/u_1004.mp3",
+    "text": "Урфин шёл один.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1005,
+    "audio": "/audio/u_1005.mp3",
+    "text": "Урфина ненавидел каждый куст.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1006,
+    "audio": "/audio/u_1006.mp3",
+    "text": "Эти люди стояли на столе.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1007,
+    "audio": "/audio/u_1007.mp3",
+    "text": "Руф Билан исчез сегодня.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1008,
+    "audio": "/audio/u_1008.mp3",
+    "text": "Изменник протиснулся в дыру.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1009,
+    "audio": "/audio/u_1009.mp3",
+    "text": "Дровосек отказался от помощи.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1010,
+    "audio": "/audio/u_1010.mp3",
+    "text": "Тигр гнал вперёд Руфа Билана.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1011,
+    "audio": "/audio/u_1011.mp3",
+    "text": "Беглец исчез в лесу.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1012,
+    "audio": "/audio/u_1012.mp3",
+    "text": "Гуамоко остался во дворце",
+    "correctAnswer": false
+  },
+  {
+    "id": 1013,
+    "audio": "/audio/u_1013.mp3",
+    "text": "Гингема была хорошей колдуньей.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1014,
+    "audio": "/audio/u_1014.mp3",
+    "text": "Гуамоко поселился в дупле дуба.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1015,
+    "audio": "/audio/u_1015.mp3",
+    "text": "Птицы приносили Гуамоко мышей и птиц.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1016,
+    "audio": "/audio/u_1016.mp3",
+    "text": "Изумрудный город стал бирюзовым.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1017,
+    "audio": "/audio/u_1017.mp3",
+    "text": "Жители города никогда не должны надевать зелёных очков.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1018,
+    "audio": "/audio/u_1018.mp3",
+    "text": "Все надели очки.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1019,
+    "audio": "/audio/u_1019.mp3",
+    "text": "На площади были фонтаны.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1020,
+    "audio": "/audio/u_1020.mp3",
+    "text": "Дин Гиор расправлял усы.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1021,
+    "audio": "/audio/u_1021.mp3",
+    "text": "Кагги-Карр выпорхнула из двери.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1022,
+    "audio": "/audio/u_1022.mp3",
+    "text": "Железный дровосек с друзьями вошёл во двор.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1023,
+    "audio": "/audio/u_1023.mp3",
+    "text": "На Элли были серебряные башмачки.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1024,
+    "audio": "/audio/u_1024.mp3",
+    "text": "В зал были внесены столы.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1025,
+    "audio": "/audio/u_1025.mp3",
+    "text": "Состоялся суд над Урфином.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1026,
+    "audio": "/audio/u_1026.mp3",
+    "text": "Чарли Блек предложил его убить.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1027,
+    "audio": "/audio/u_1027.mp3",
+    "text": "Страшила  был не согласен с Элли.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1028,
+    "audio": "/audio/u_1028.mp3",
+    "text": "Жители закричали.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1029,
+    "audio": "/audio/u_1029.mp3",
+    "text": "Страшила приложил палец ко лбу.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1030,
+    "audio": "/audio/u_1030.mp3",
+    "text": "Они хотели сжечь дуболомов.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1031,
+    "audio": "/audio/u_1031.mp3",
+    "text": "Страшила сказал короткую речь.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1032,
+    "audio": "/audio/u_1032.mp3",
+    "text": "У них есть сердца.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1033,
+    "audio": "/audio/u_1033.mp3",
+    "text": "Страшила думал больше часа.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1034,
+    "audio": "/audio/u_1034.mp3",
+    "text": "Урфин вырезал солдатам зверские лица.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1035,
+    "audio": "/audio/u_1035.mp3",
+    "text": "Генерал совершал преступления по приказу короля.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1036,
+    "audio": "/audio/u_1036.mp3",
+    "text": "Дети в толпе засмеялись.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1037,
+    "audio": "/audio/u_1037.mp3",
+    "text": "С моста спустился грустный человек.",
+    "correctAnswer": false
+  },
+  {
+    "id": 1038,
+    "audio": "/audio/u_1038.mp3",
+    "text": "Лан Пирот забыл своё прошлое.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1039,
+    "audio": "/audio/u_1039.mp3",
+    "text": "Элли понравились новые манеры Лана Пирота.",
+    "correctAnswer": true
+  },
+  {
+    "id": 1040,
+    "audio": "/audio/u_1040.mp3",
+    "text": "Страшила – Дважды Премудрый правитель Изумрудного города.",
+    "correctAnswer": false
+  }
+]
