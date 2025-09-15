@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/urfinTRI/static/css/main.9c727ceb.css",
-    "main.js": "/urfinTRI/static/js/main.d574442f.js",
+    "main.js": "/urfinTRI/static/js/main.7567d640.js",
     "index.html": "/urfinTRI/index.html",
     "main.9c727ceb.css.map": "/urfinTRI/static/css/main.9c727ceb.css.map",
-    "main.d574442f.js.map": "/urfinTRI/static/js/main.d574442f.js.map"
+    "main.7567d640.js.map": "/urfinTRI/static/js/main.7567d640.js.map"
   },
   "entrypoints": [
     "static/css/main.9c727ceb.css",
-    "static/js/main.d574442f.js"
+    "static/js/main.7567d640.js"
   ]
 }
