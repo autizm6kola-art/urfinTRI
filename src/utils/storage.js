@@ -1,6 +1,6 @@
 import { supabase } from './supabaseClient';
 
-const STORAGE_PREFIX = "app_audio_";
+const STORAGE_PREFIX = "urfin_";
 const USE_SUPABASE = false;
 
 // === localStorage реализация ===
