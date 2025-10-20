@@ -1,6 +1,6 @@
 
 
-export function generateRanges(tasks, rangeSize = 6) {
+export function generateRanges(tasks, rangeSize = 4) {
   const sorted = [...tasks].sort((a, b) => Number(a.id) - Number(b.id));
   const ranges = [];
 

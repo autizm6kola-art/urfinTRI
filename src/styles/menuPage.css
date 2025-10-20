@@ -19,9 +19,10 @@
 
 .range-buttons-wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-  gap: 1px;
+  grid-template-columns: repeat(auto-fit, minmax(55px, 1fr));
+  gap: 2px;
   justify-content: center;
+  text-align: center;
 }
 
 .reset-button {
